@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Assam Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-z.jpg",
+    "description": "If strength is your weakness, then Assam is your tea. This tea is from the Doomni Estate in the Assam valley in northeast India along the rich and fertile banks of the Brahamaputra River is prized for its heartiness and tart, malty flavor and aroma. A strong, full-liquoring tea, slightly floral and sweetly dry flavor. A honey-like mouth coat and aftertaste. This is a good tea to try with a touch of milk. For a more subtle & sweet rendition, try our Organic Assam.",
+    "ratings": 3,
+    "reviews": 47,
+    "price": "$3.00",
+    "features": [
+      "Single-estate loose leaf Assam tea",
+      "Origin: India, Assam Valley",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.10 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Assam Tea, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-organic-z.jpg",
+    "description": "Subtle, sweet, and sophisticated - this esteemed organic assam is from the Banaspaty Estate in Northeast India. Rich honey notes emerge from the amber liquor, with malty undertones far more subtle than a traditional assam tea. Also less astringent than traditional assam, the smooth sweet character of these slightly larger leaves deliver a clean brew with less tannin. Easy to brew up properly, this tea produces a consistently blissful cup that will transport you to India's Assam Valley.",
+    "ratings": 3,
+    "reviews": 74,
+    "price": "$4.00",
+    "features": [
+      "100% Organic Assam Tea",
+      "Origin: Banaspaty Estate, India",
+      "Loose Leaf Grade: FTGFOP",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.17 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Jasmine Silver Needle, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-jasmine-silver-needle-z.jpg",
+    "description": "Enjoy the essence of night-flowering jasmine tea with the exquisite purity of white tea buds. White Silver Needle Jasmine is soft in its approach, with a natural sweetness and an enduring floral aura. It embodies the perfect balance between elegant fragrance and a lush finish. To produce this tea, carefully handpicked downy white silver needle tea buds are repeatedly layered with summer jasmine blossoms. The resulting infusion produces an intoxicating, calming tea liquor. Silver Needle Jasmine may be enjoyed either hot or cold-brewed.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "7.95",
+    "features": [
+      "Organic Jasmine White Tea",
+      "Origin: Fujian, China",
+      "0.4 oz tin = 5 8-oz Servings",
+      "1.6 oz bulk = 22 8-oz Servings",
+      "Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Meditative Mind, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-meditative-mind-z.jpg",
+    "description": "Our beloved blend of pure Chinese white tea, rosebuds and jasmine pearls creates an experience of aromatherapy that sharpens the mind and arouses the senses. The exotic floral scent of night–blooming Jasmine is uplifting and soothing, and is used as an anti-depressant in herbal medicine. Rosebuds are used to ease nervous tension and stress, and have a calming effect on the mind. This combination works together to enhance the light, subtle flavor of the white tea leaves. This tea brews into a golden liquor with a very soothing fragrance, and is perfect before, during, or after a stressful day.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "3.00",
+    "features": [
+      "Sample = 5 8-oz Servings",
+      "Tins = 21 8-oz Servings",
+      "AND leaves can be re-infused 2-3 times!",
+      "1 LB Bulk = 0.31 / Serving",
+      "White tea is loaded with antioxidants",
+      "Jasmine & rosebuds help with relaxation",
+      "Mind+Body white & green tea experience",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Meditative Mind Sachets, Organic ",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-meditative-mind-tea-bags-z.jpg",
+    "description": "These premium sachets contain a soothing white tea blend to sharpen the mind and arouse the senses. Rosebuds are known to ease nervous tension and have a calming effect. The exotic floral scent of night–blooming jasmine is used as an anti-depressant in herbal medicine. This combination works together to enhance the light, subtle flavor of the white peony tea leaf base - creating the perfect remedy for a stressful day.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "7.95",
+    "features": [
+      "Premium white tea sachets",
+      "Jasmine & rosebuds help with relaxation",
+      "Biodegradable pyramid tea bags",
+      "Serving size: 1 sachet / 16 oz water",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Monkey-Picked White, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-white-monkey-tea-z.jpg",
+    "description": "Tasting Notes:",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "4.00",
+    "features": [
+      "100% Organic White Tea",
+      "Single-estate premium white tea",
+      "Origin: China, Guangxi Region",
+      "Sample = 5 8-oz Servings",
+      "1/2 LB Bulk = 0.35 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Natural Glow, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-white-tea-osmanthus-z.jpg",
+    "description": "Quiet time promotes both mental and physical well being. Natural Glow is artfully handcrafted to draw you into a state of wakeful relaxation. Beautiful white tea leaves sprinkled with sensuous apricot-smelling petals from exotic osmanthus blossoms will leave you looking and feeling renewed. Promote your beauty and cleanse routine with this highly fragrant, sweet and steady boost of natural antioxidants.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "4.00",
+    "features": [
+      "Organic loose leaf white tea",
+      "Premium white tea blend",
+      "Origin: China",
+      "All natural & Sugar-free",
+      "No flavorings"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Natural Glow Sachets, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/n/a/natural-glow-white-tea-bags-z.jpg",
+    "description": "Our organic white spa tea is now available in convenient single-serving pyramid tea sachets! Natural Glow is artfully blended to draw you into a state of wakeful relaxation. Beautiful white tea leaves sprinkled with sensuous apricot-smelling osmanthus blossoms will leave you looking and feeling renewed. Promote your beauty and cleanse routine with this fragrant, subtly sweet, natural source of antioxidants.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "7.95",
+    "features": [
+      "Organic White Tea Sachets",
+      "Osmanthus white tea blend",
+      "Sugar-free, No added flavorings",
+      "Biodegradable pyramid tea bags",
+      "Serving size: 1 sachet / 16 oz water",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Silver Needle, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-silver-needle-z.jpg",
+    "description": "These sought-after organic white tea buds are cultivated in the Fujian Province, near Wuyi Mountain, then hand-picked at the 1st Spring harvest of the year. Also known as Baihao Yinzhen, the silver needles name comes from the tiny silver hairs that coat the young tea leaves. The white tea buds steep into a light gold infusion, with naturally light floral notes of honeysuckle with a round body and clean aftertaste. The L-theanine in white tea encourages an alert state of relaxation. This is a tea to be sipped and savored, and a must-try for tea connoisseurs.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "7.95",
+    "features": [
+      "Organic Silver Needle White Tea",
+      "Origin: Fujian, China",
+      "0.4 oz tin = 5 8-oz Servings",
+      "1.6 oz bulk = 22 8-oz Servings",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Snowflakes",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/s/n/snowflakes-white-tea-z-01.jpg",
+    "description": "Our Snowflakes is a pure, single-estate white tea grown at high elevation by Buddhist monks on Drum Mountain. White teas have the highest antioxidant count of all teas because they are the least processed, and contain the lowest amount of caffeine. It is therefore the perfect meditative aid: it acts as a mild stimulant without causing insomnia or nervousness, working simultaneously to refresh and quiet the mind. Our sublime white tips have a soft, white downy coating and a clean, subtle, very refreshing taste with overtones of chestnuts. This tea brews into a light, yellow liquor and has the delicate aroma of fresh Spring flora.",
+    "ratings": 3,
+    "reviews": 111,
+    "price": "4.00",
+    "features": [
+      "Pure white tea buds and tips",
+      "Origin: Guo Shan Mountains in Fujian, China",
+      "Sample = 5 8-oz Servings",
+      "1.4 oz Bulk = 40 8-oz Servings",
+      "1 LB Bulk = 0.38 / Serving",
+      "AND leaves can be re-infused 2-3 times!",
+      "Gluten-free & Sugar-free",
+      "Mild stimulant, perfect for meditation",
+      "Caffeine: Low"
+    ]
+  }
+]

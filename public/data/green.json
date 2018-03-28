@@ -1,0 +1,367 @@
+[
+  {
+    "id": 101,
+    "name": "88th Night",
+    "description": "This fine Japanese shincha (first-flush tea) is poetically harvested 88 nights after the Japanese Lunar New Year. The special care with which this tea is cultivated, hand-picked, and skillfully processed by tea masters that are second to none. Also known as Hachijyu-Hachiya, this 100% Okumidori cultivar (meaning \"Deep Green\") has a distinctive cherry blossom scent, sweet vanilla notes of cured hay, and deep rich umami. This year’s highly anticipated selection is from the Kirishima area of Kagoshima prefecture on the southwestern island of Kyushu, Japan.",
+    "ratings": 3,
+    "price": "14.95",
+    "features": [
+      "Japanese shincha (first-flush spring green tea)",
+      "Origin: Kagoshima on Kyushu Island, Japan",
+      "1.3 oz Tin = 8 generous 8-oz Servings",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Boulder Blues",
+    "description": "Our best selling green tea! This blend of fine Japanese Sencha and high-grade Chinese Dragonwell combine to create a rich yet refreshing base, while wild strawberries and rhubarb flavors add a subtle twist. This tea yields a bright liquor with a luxurious aroma and brisk, vivid flavor. The ideal accompaniment to dark chocolate. Makes the perfect gourmet iced tea!",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Sample = 5 8-oz Servings",
+      "Tin = 35 8-oz Servings",
+      "AND leaves can be infused twice",
+      "1 LB Bulk = 0.15 / Serving",
+      "Smooth, sweet, grassy green tea",
+      "Full of natural antioxidants!",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Citrus Boost",
+    "description": "Citrus Boost s specifically formulated to give you a refreshing brew. This handcrafted infusion of jasmine green tea, balanced with bright citrus and elderflowers, is delicately floral and sweetly tangy. Previously known as Midday Citrus Boost, this blend will awaken your taste buds and give you a gentle lift.",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Premium Citrus Jasmine Green Tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.15 / Serving",
+      "Gluten-free & Sugar-free",
+      "Loved by fans of Jade Citrus Mint",
+      "Caffeine: Light"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Clouds & Mist, Organic",
+    "description": "Clouds and Mist organic green tea makes a lasting impression. Also known as 'yunwu', the subtle aroma that comes from its clear, golden yellow infusion is a compelling mixture of smoky, citrus and vegetal. Its earthy taste, reminiscent of sweet, roasted artichokes, is well-rounded, with a slight note of toasted pecans. Clouds and Mist is very structured in its flavor – assertive and smoky in forward body, and developing over time to a softly sweet, buttery finish – making it a perfect green tea for morning. The curly silver-speckled leaves are harvested in the spring from tender tea buds. Praised as 'green gold' for centuries, it is one of China’s traditional imperial tribute teas. Clouds and Mist takes its name from the seas of mystically shrouded peaks on which this prized green tea is grown, using USDA certified Organic farming methods. Brews well for three to four infusions.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "100% Organic Green Tea: Yunwu",
+      "aka Emperor's Clouds and Mist",
+      "Origin: Zhejiang Province, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.18 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Dragonwell Green Tea",
+    "description": "This is an authentic Chinese West Lake Dragonwell and considered to be one of the world's finest green teas. Its narrow and flat leaves produce a soothing aroma when brewed. Lung Ching tastes delicate and rich, and has a slight hint of chestnut flavor. The leaves are picked and hand processed in early spring when the mountains are still shrouded in mist. They have a thin, delicate appearance with a golden sheen and give a pale green infusion that's lightly sweet, tremendously fragrant and smooth in texture.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "Premium dragonwell tea",
+      "Origin: Hangzhou, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.20 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Dragonwell, Organic",
+    "description": "Dragonwell is considered to be one of the world's finest green teas, picked and hand processed in early spring. Its large flat leaves produce a soothing aroma when brewed. They have a golden sheen and give a pale green infusion that's lightly sweet and tremendously fragrant, with a slight hint of chestnut. This pure organic green tea will captivate you and keep you coming back for more.",
+    "ratings": 3,
+    "price": "5.00",
+    "features": [
+      "High-grade dragonwell tea",
+      "Origin: Hangzhou, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.27 / Serving",
+      "Naturally Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Genmaicha Green Tea",
+    "description": "Genmaicha is a traditional Japanese green tea. The lovely vegetal green flavor, indicative of Japan's steaming process, is balanced by the nutty flavor imparted by the roasted rice. The combination becomes an earthy tea that is as soothing to the soul as chicken noodle soup.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "Premium loose leaf genmaicha tea",
+      "Origin: Japan",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.23 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Grasshopper Green",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/t/h/thin-mint-green-tea-z.jpg",
+    "description": "This refreshing blend consists of peppermint and Hojicha, a roasted Japanese green tea. Chocolate mint grasshopper confections capture the essence of this tea. There's no flavoring involved, but the peppermint leaves pull chocolate notes from the roasted tea resulting in a guilt-free decadent taste and aroma. Hojicha is naturally lower in caffeine than other green teas, while peppermint aids with muscle relaxation and digestion. Together they create a crisp body that is relaxing when hot and refreshing when iced. This brews into a clean, amber liquor with an inviting smell. The roasted green tea creates a nutty base that is brightened by the vibrant peppermint leaves.",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Sample = 5 8-oz Servings",
+      "Tin: 2 oz = 28 8-oz Servings",
+      "1 LB Bulk = 0.29 / Serving",
+      "AND leaves can be infused twice!",
+      "Lower caffeine than other green teas",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Green Tea Citrus Slimmer, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-green-tea-citrus-slimmer-z.jpg",
+    "description": "Staying at a healthy weight is part of ongoing lifestyle maintenance once you’ve completed your cleanse. This blend combines organic green tea and lemon to boost your metabolism. Cold brew this delicious, gently caffeinated tea and sip it throughout the day to sustain your energy and zip. Or hot brew it for a warm lemony lift! The caffeine and polyphenols in green tea help burn calories, making for an easy partner in weight management. Enjoy this tasty zero-calorie daily treat!",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "30-Day Supply of organic slimming tea (3oz)",
+      "No sweeteners, preservatives, or coloring",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Gunpowder Green Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/g/u/gunpowder-tea-z.jpg",
+    "description": "The leaves of this green tea are rolled into the shape of little pinhead pellets resembling gunpowder, hence its name. Gunpowder green tea tastes bold & lightly smoky, also lending to its name. Gunpowder tea leaves stay fresh longer than any other green tea leaves due to its compressed form. Gunpowder green is higher in caffeine than most other green teas (35-40 mg/8 oz serving) and is commonly used by athletes to improve endurance over periods of 3-6 hours.",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Premium loose leaf gunpowder tea",
+      "Origin: China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.11 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Gyokuro, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-gyokuro-tea-z.jpg",
+    "description": "This most elegant and sophisticated Japanese tea is the quintessential tea for a special occasion. The name translates to ‘jade dew’, describing the color of its infusion. Our gyokuro is grown in rich volcanic soil on the south eastern coast of Kyushu, an area known as a leader in organic farming practices. ‘Umami’ in taste and aroma, this smooth infusion will make you feel like you’re taking an exquisite plunge under the sea! Its finish is sweet and rich. The fine, needle-shaped leaves are a dark emerald green color due to being partially shade grown, which gives gyokuro a high chlorophyll content.",
+    "ratings": 3,
+    "price": "6.00",
+    "features": [
+      "Organic Japanese Gyokuro",
+      "Gyokuro imperial green tea",
+      "Origin: Kyushu Island, Japan",
+      "Sample makes 5+ 8-oz Servings",
+      "1/2 LB Bulk = 0.65 / Serving",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Japanese Orchid Green",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/j/a/japanese-iccha-kariban-z_1.jpg",
+    "description": "We're proud to offer this delicate green tea with refreshing notes of orchid and lily of the valley. This unique spring tea hails from Kagoshima, the southernmost island of Japan. The cup is soft, smooth and very easy drinking with a sweet character and clean finish, making it a great introduction to Japanese green tea. Also known as Iccha Kariban, this new tea is versatile in preparation — amazing prepared hot, iced, and cold-brewed.",
+    "ratings": 3,
+    "price": "5.00",
+    "features": [
+      "High-grade Japanese green tea",
+      "Tea Origins: Kagoshima, Japan",
+      "4 oz / Tin = 28 8oz Servings",
+      "Sample = 5 8oz Servings",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Jasmine Pearls Green Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/j/a/jasmine-pearls-tea-z.jpg",
+    "description": "This is a very high grade green tea from China's Fujian region. The tea leaves are hand-picked in the spring, lightly scented with fresh jasmine flowers, and expertly shaped into pearls. It brews into a heavenly smooth green tea with a gorgeous aroma and sweet undertones. The leaves may be re-infused multiple times. When steeped, the pearls slowly unfurl into long dragon shaped leaves releasing their rich jasmine bouquet.",
+    "ratings": 3,
+    "price": "5.00",
+    "features": [
+      "Premium loose leaf jasmine pearls",
+      "aka Jasmine Dragon Phoenix Pearls",
+      "Origin: Fujian, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.44 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Jasmine Petals, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-jasmine-green-tea-z.jpg",
+    "description": "You’ll want to linger over this visually and aromatically enticing cup of jasmine tea made with organic ingredients… Organic green tea leaves infused with the fragrance from jasmine flowers. A smooth, delicate liquor is produced from these rich green tea leaves. This steeps up amazing, both hot & iced!",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "Organic Jasmine Green Tea",
+      "Organic Green Tea Origins: China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.23 / Serving",
+      "AND leaves can be re-steeped 1-2 times for added value and enjoyment!",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Keep Fit, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-keep-fit-green-tea-z.jpg",
+    "description": "Matcha and other green teas team up with yerba mate and citrus to help fuel your metabolic fire. Drink up and keep fit! It’s thirst quenching, light and invigorating, with a delightful lemony finish, to arouse the mind and motivate the body and soul. For sustained zip, you can cold brew it and keep sipping throughout the day.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "Citrus cleanse green tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.23 / Serving",
+      "Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Mao Feng Green, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-mao-feng-green-tea-z.jpg",
+    "description": "Our stunning Mao Feng green tea has the welcoming aroma of the first green grass of Spring. Its flavor is delicate, clean, and slightly sweet — an intriguing mix of buttery, floral, grassy and lightly vegetal. Some say it’s reminiscent of fresh fiddlehead ferns or tender bamboo shoots. The tender small leaves and buds of Mao Feng infuse into a perfectly translucent light green tea liquor. This tea hails from Huangshan, a beautiful high-altitude UNESCO world heritage site known as “Yellow Mountain”, whose natural climate and terroir are the most ideal environment for nurturing high mountain teas shrouded with mist.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "Organic Chinese Green Tea",
+      "Origin: Anhui Province, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.29 / Serving",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Matcha Green Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/m/a/matcha-tea-01-z.jpg",
+    "description": "Our matcha is imported in small batches direct from Shizuoka, Japan, to ensure its freshness. This pure green tea powder is perfect for traditional matcha preparation, as done in the Japanese tea ceremony. Alternatively it can be cold brewed by simply adding a spoonful to a water bottle and shaking it up. This antioxidant-rich tea is naturally packed with L-theanine, providing sustained energy and a calm focus. Matcha is tasty in green tea lattes & green tea smoothies, and will become a staple in your kitchen at such a great price!",
+    "ratings": 3,
+    "price": "41.95",
+    "features": [
+      "High-grade Japanese matcha",
+      "Origin: tencha from Shizuoka, Japan",
+      "3.5 oz Tin = 100 Servings",
+      "No sweeteners, preservatives, or coloring",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Matcha Mate, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-matcha-mate-z.jpg",
+    "description": "This high energy blend is an East meets West fusion, resulting in a natural appetite suppressant with EGCG antioxidants and a powerful caffeine boost. Our Organic Yerba Mate is imported from Brazil in its freshest green form, neither aged nor roasted. We blend it with our fresh Organic Matcha green tea powder. This all natural energy drink is the perfect morning jump start, afternoon pick-me-up, or pre-workout boost. You can hot or cold brew it perfectly within minutes.",
+    "ratings": 3,
+    "price": "7.95",
+    "features": [
+      "Premium Yerba Mate Matcha blend",
+      "Yerba Mate Origin: Brazil",
+      "0.75 oz / Tin = 21 g = 10 8oz Servings",
+      "Sample = 5 8oz Servings",
+      "1 LB Bulk = 0.17 / Serving",
+      "No sweeteners, preservatives, or coloring",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Meditative Mind, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-meditative-mind-z.jpg",
+    "description": "Our beloved blend of pure Chinese white tea, rosebuds and jasmine pearls creates an experience of aromatherapy that sharpens the mind and arouses the senses. The exotic floral scent of night–blooming Jasmine is uplifting and soothing, and is used as an anti-depressant in herbal medicine. Rosebuds are used to ease nervous tension and stress, and have a calming effect on the mind. This combination works together to enhance the light, subtle flavor of the white tea leaves. This tea brews into a golden liquor with a very soothing fragrance, and is perfect before, during, or after a stressful day.",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Sample = 5 8-oz Servings",
+      "Tins = 21 8-oz Servings",
+      "AND leaves can be re-infused 2-3 times!",
+      "1 LB Bulk = 0.31 / Serving",
+      "White tea is loaded with antioxidants",
+      "Jasmine & rosebuds help with relaxation",
+      "Mind+Body white & green tea experience",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Low"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Moroccan Mint Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/m/o/moroccan-mint-tea-z.jpg",
+    "description": "Our Moroccan Mint is true to the classic, a strong and smoky rolled green gunpowder tea with bright uplifting spearmint leaves. Perfect as an afternoon pick-me-up or appetite suppressant, Moroccan Mint green tea also makes a delicious digestif, or after-dinner drink. This is a great tea to cold-brew.",
+    "ratings": 3,
+    "price": "3.00",
+    "features": [
+      "Premium mint green tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.12 / Serving",
+      "AND leaves can be infused twice!",
+      "Less caffeine than other green teas",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Sencha Jade Reserve",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/j/a/japanese-sencha-jade-reserve-z.jpg",
+    "description": "Our reserve-grade of Japan’s most popular tea will elevate your everyday tea experience. The fine, dark green tea leaves are hand picked and deep steamed, to release their rich flavor and complex sweetness. It is soft yet bright on the palate, fresh and grassy in its aroma, and simply refreshing to sip. Its flavors are sweetly algae and reminiscent of early Spring harvest. The leaves are long, thin, cylindrical and jade green in color. This tea is cultivated on Kyushu, the southernmost of Japan's four large islands, a region famous for its top-dollar teas. Sencha makes a fantastic cold brew. For extra value and enjoyment, it steeps well for up to 3 infusions.",
+    "ratings": 3,
+    "price": "6.00",
+    "features": [
+      "100% Pure Sencha Green Tea",
+      "Origin: Miyazaki, Japan",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.42 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Sencha Tea, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/s/e/sencha-tea-organic-z.jpg",
+    "description": "The emperor of green teas, hand picked, deep steamed, and carefully dried right after harvesting, in traditional Japanese style. This organic sencha tea will make any day feel like a beautiful spring day. A delicately sweet, herbaceous aroma emanates from the long, flat, naturally dark emerald tea leaves. The medium-light body of its infusion results in a slightly sweet flavor that endures long after you’re done sipping the tea. It is subtly balanced, sweet and salty, with a flavor profile reminiscent of fresh cut grass and seaweed. Sencha is a steamed tea, made from freshly picked leaves, and is therefore rich in Vitamin C. This is a perfect green tea to drink in the afternoon, as the tasting experience will make you feel simultaneously relaxed and refreshed. For added value and enjoyment, the flavor profile remains consistent for three infusions.",
+    "ratings": 3,
+    "price": "4.00",
+    "features": [
+      "100% Organic Sencha Green Tea",
+      "Origin: China (Japanese style)",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = 0.17 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Sweet Magnolia Green",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/s/w/sweet-magnolia-green-tea-z.jpg",
+    "description": "Our award-winning magnolia green tea won the Gold Medal at the 2017 World Tea Championship. Your senses will be exhilarated and your spirits uplifted when you breathe in the sweet, fragrant aroma of our Sweet Magnolia Green. This delicate tea is naturally scented with beautiful white magnolia flowers, giving it a diverse array of aromas that range from deep plum fruit to light citrus. The magnolia scent is in perfect harmony with the buttery green tea, making an unforgettable cup of tea that will infuse peace into any occasion.",
+    "ratings": 3,
+    "price": "9.50",
+    "features": [
+      "Organic Chinese Green Tea",
+      "Origin: China, Fujian Province",
+      "Sample = 5 8-oz Servings",
+      "1/2 LB Bulk = 0.54 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Medium"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+.teaDetailsContainer {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+
+  > img {
+    width: 25rem;
+  }
+
+  .teaDetailsContent {
+    .teaFeatures {
+      margin-top: 1rem;
+    }
+  }
+}
+
+.teaDetailsReviews {
+  margin-top: 1rem;
+
+  > p {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+}

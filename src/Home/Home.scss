@@ -1,0 +1,17 @@
+.productListContainer {
+    width: 90%;
+    margin: 5vh auto 0;
+    display: grid;
+    grid-template-columns: 1fr 820px;
+}
+
+.productListContainer .productListPanes {
+    list-style: none;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1rem;
+}
+
+.productListContainer .productListPanes li {
+    display: inline-block;
+}

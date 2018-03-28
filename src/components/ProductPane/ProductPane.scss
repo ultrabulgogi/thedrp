@@ -1,0 +1,33 @@
+.productPaneContainer {
+    position: relative;
+}
+
+.productPaneContainer .newProduct {
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    vertical-align: middle;
+    font-size: .75rem;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    
+}
+
+.productPaneContainer img {
+    width: 15rem;
+}
+
+.productPaneContainer .productName,
+.productPaneContainer .productPrice,
+.productPaneContainer .productReviews {
+    display: block;
+    text-align: center;
+}
+
+.productPaneContainer .productReviews .count {
+    margin-right: 0.25rem;
+}
