@@ -1,11 +1,10 @@
 [
   {
-    "id": 1,
+    "id": 264,
     "name": "Assam Tea",
     "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-z.jpg",
     "description": "If strength is your weakness, then Assam is your tea. This tea is from the Doomni Estate in the Assam valley in northeast India along the rich and fertile banks of the Brahamaputra River is prized for its heartiness and tart, malty flavor and aroma. A strong, full-liquoring tea, slightly floral and sweetly dry flavor. A honey-like mouth coat and aftertaste. This is a good tea to try with a touch of milk. For a more subtle & sweet rendition, try our Organic Assam.",
     "ratings": 3,
-    "reviews": 47,
     "price": "$3.00",
     "features": [
       "Single-estate loose leaf Assam tea",
@@ -17,12 +16,11 @@
     ]
   },
   {
-    "id": 1,
+    "id": 252,
     "name": "Assam Tea, Organic",
     "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-organic-z.jpg",
     "description": "Subtle, sweet, and sophisticated - this esteemed organic assam is from the Banaspaty Estate in Northeast India. Rich honey notes emerge from the amber liquor, with malty undertones far more subtle than a traditional assam tea. Also less astringent than traditional assam, the smooth sweet character of these slightly larger leaves deliver a clean brew with less tannin. Easy to brew up properly, this tea produces a consistently blissful cup that will transport you to India's Assam Valley.",
     "ratings": 3,
-    "reviews": 74,
     "price": "$4.00",
     "features": [
       "100% Organic Assam Tea",
@@ -30,6 +28,320 @@
       "Loose Leaf Grade: FTGFOP",
       "Sample = 5 8-oz Servings",
       "1 LB Bulk = $0.17 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Assam Tea Sachets, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-assam-tea-sachets-z-01.jpg",
+    "description": "Our Assam pyramid sachets brew a full-bodied mug of bronze-colored tea, with rich notes of honey. Assam tea is the classic base for English breakfast and Irish breakfast teas. Our esteemed large leaf single-estate Assam is exceptionally smooth and low in tannin. Perfect as a blissful first cup in the morning, or any time you want a delicious & sophisticated caffeine lift.",
+    "ratings": 3,
+    "price": "$6.95",
+    "features": [
+      "Premium Assam Tea Sachets",
+      "Origin: Banaspaty Estate, India",
+      "Tea Grade: FTGFOP",
+      "Biodegradable pyramid tea bags",
+      "Serving size: 1 sachet / 16 oz water",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Black Pearls, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-black-pearls-z.jpg",
+    "description": "Our Organic Black Pearls are a rare Spring-harvested black tea, grown and harvested in Fengqing Yunnan Province, China. This tea was hand-picked and expertly rolled from 30 premium quality leaves and fresh, succulent buds. The resulting large pearls unfurl to dramatic proportions while steeping, revealing aromatic earthy tones of caramelized sugar with undertones of chocolate. After this exquisitely smooth tea experience you will covet Black Dragon Pearls as the legendary gems they were inspired by.",
+    "ratings": 3,
+    "price": "$9.95",
+    "features": [
+      "100% Organic Black Dragon Pearls",
+      "Origin: Yunnan Province, China",
+      "1.3 oz tin = 13 8-oz Servings",
+      "1/4 LB bulk = 40 8-oz Servings",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Blue Mountain Nilgiri, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-nilgiri-tea-z.jpg",
+    "description": "",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "100% Organic Indian Black Tea",
+      "Single-estate premium loose leaf tea",
+      "Origin: India, Nilgiri Mountains",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.24 / Serving",
+      "Gluten-free & Sugar-free",
+      "Glass in picture not included",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Bohemian Spice",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/b/o/bohemian-spice-tea-z.jpg",
+    "description": "Bohemian Spice is an artistic blend of smoky black tea with orange peel, cinnamon, clove oil, and aromatic spices. This spiced tea pairs perfectly with cold winter mornings and cozy evenings by the fireplace. With an aroma reminiscent of mulled spices, cinnamon candy, and camp fire emerging from a full body and dark liquor, this bold black tea blend takes well to milk and compliments the season’s charm with every sip. Get in touch with your inner artist as you sip your cup of Bohemian Spice!",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Premium Spiced & Smoky Black Tea",
+      "Black Tea Origins: China & India",
+      "1 LB Bulk = $0.17 / Serving",
+      "Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Bolder Breakfast",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/w/award-winning-bolder-breakfast-z.jpg",
+    "description": "This new American black tea blend combines bold flavor, rich color, & full body with hints of chocolate. This robust breakfast blend is made from our favorite strong black teas from high altitude estates in China, India and Sri Lanka. We have combined these black teas with pu'erh, an aged black tea from Yunnan China, and dark chocolate essence. This tea yields a rich, dark liquor and a warm, well-rounded flavor that takes very well to milk and even better in the form of a tea latte. The high caffeine content and robust flavor makes this the perfect tea to help kick your coffee habit!",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Award-winning #1 top-selling tea",
+      "Sample = 5 8-oz Servings",
+      "Tin = 46 8-oz Servings",
+      "1 LB Bulk = $0.16 / Serving",
+      "More caffeine than other teas, half of coffee",
+      "Ideal morning boost: Makes great lattes!",
+      "Good for oral hygiene & other health benefits of pu'erh",
+      "Satisfying, robust, dark chocolate flavor",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Very High"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Bolder Breakfast Sachets",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/w/award-winning-bolder-breakfast-tea-bags-z.jpg",
+    "description": "Our top-selling tea now comes in convenient single-serving pyramid tea sachets! Whether you're taking your premium tea on the road or simplifying your morning routine - this robust breakfast blend has bold flavor & a high-caffeine buzz to jump start your day. Deep flavor, rich color and a full body emerge from high altitude black teas, aged pu'erh tea, & dark chocolate essence.",
+    "ratings": 3,
+    "price": "$7.95",
+    "features": [
+      "Award-winning Breakfast Tea Sachets",
+      "Ideal morning boost: Makes great lattes!",
+      "Gluten-free & Sugar-free",
+      "Biodegradable pyramid tea bags",
+      "Serving size: 1 sachet / 16 oz water",
+      "Caffeine: Very High"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Ceylon Lumbini Extra Fancy",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/e/ceylon-lumbini-z.jpg",
+    "description": "This beautiful Ceylon tea is one of the highest awarded teas available. It is a valley grown tea from the Lumbini Tea Estate in the region of Pallegama in southern Sri Lanka, next to the pristine UNESCO world heritage site of the Sinharaja Forest. In this picturesque landscape, the fertile soil and favorable weather produce abundant plants with sensuous leaves. This silver tipped tea has a smooth, deep flavor that is sweet with the taste of delicate flowers.",
+    "ratings": 3,
+    "price": "$15.95",
+    "features": [
+      "Premium Ceylon Orange Pekoe black tea",
+      "Origin: Sri Lanka, Lumbini Estate",
+      "1/2 LB Bulk = $0.78 / Serving",
+      "Gluten-free & Sugar-free",
+      "Note: Does not contain any orange. The tea type references the color of royalty.",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Ceylon Orange Pekoe",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/e/ceylon-tea-z.jpg",
+    "description": "Kenilworth Estate is known around the world for its strong full-bodied flavor and is considered to be the hallmark of Ceylon medium grown teas. A scenic area filled with waterfalls, forest land and tea plantations on the outskirts of the mountains in Sabaragamuwa province of Sri Lanka - pure, healthy air, much rain, and brilliant sunshine give this Estate Ceylon tea its classic, fresh aroma. Big, bright, golden, fragrant liquor. Long, handsome leaves. ",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Single-estate premium Ceylon black tea",
+      "Loose leaf orange pekoe tea",
+      "Origin: Sri Lanka, Kenilworth Estate",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.13 / Serving",
+      "Gluten-free & Sugar-free",
+      "Note: Does not contain any orange. The tea type references the color of royalty.",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Chocolate Cherry Bomb!",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/h/chocolate-cherry-tea-z.jpg",
+    "description": "",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Gourmet Chocolate Cherry Tea",
+      "Handcrafted in Boulder, Colorado",
+      "Tea Origins: India & China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.12 / Serving",
+      "Sugar-free",
+      "aka Anna and the French Kiss",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Climber's High Chai",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/l/climbers-high-energy-tea-z.jpg",
+    "description": "A super-charged blend of teas, spices and herbs formulated to provide a refreshing daily lift for people with active, high-energy lifestyles. Climber’s High is a high-powered way to increase your intake of beneficial antioxidants such as flavonoids and catechins, as well as a host of healthy vitamins, trace minerals, beneficial phyto-constituents, and caffeine. It was originally conceived to assist people in adjusting to higher altitudes. This spiced yerba mate chai tea is both good for you and a pleasure to drink.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Premium loose leaf tea blend",
+      "Yerba Mate Origin: Argentina",
+      "Sample = 5 8-oz Servings",
+      "Tin = 35 8-oz Servings",
+      "1 LB Bulk = $0.27 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: Very High"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Climber's High Chai Sachets",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/l/climbers-high-tea-bags-z.jpg",
+    "description": "Our fan-favorite Climber's High is now available in pyramid sachets for your added convenience. An energizing blend of teas, spices, and herbs, Climber’s High is a high-powered way to increase your daily dose of beneficial antioxidants, as well as a host of healthy vitamins, trace minerals, beneficial phyto-constituents, and caffeine. This spiced yerba mate chai is both good for you and delicious.",
+    "ratings": 3,
+    "price": "$7.95",
+    "features": [
+      "Climber's High Tea Sachets",
+      "Yerba Mate Origin: Argentina",
+      "Biodegradable pyramid tea bags",
+      "Serving size: 1 sachet / 16 oz water",
+      "Caffeine: Very High"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Choco-Mint Truffle",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/h/chocolate-peppermint-patty-tea-z-01.jpg",
+    "description": "",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Gourmet Chocolate Mint Tea",
+      "Black Tea Origins: China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.12 / Serving",
+      "Sugar-free & 0 SmartPoints",
+      "Formerly: Chocolate Peppermint Patty",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Earl of Grey",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/e/a/earl-of-grey-tea-z.jpg",
+    "description": "This unique blend takes traditional Earl Grey to the next level by combining the expected bergamot flavoring on full leaf black tea then adding the perfect proportions of other citruses, vanilla, licorice root, and mallow flowers. The result is a captivating aroma and a deep liquor with a well-balanced, smooth, bright, and slightly creamy flavor profile. This tea is for those who like to veer from tradition, explore new ground, and a must for those with fond memories of the orange-creamsicles of childhood. It pairs perfectly with strong cheeses or creme brulee.",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Vanilla Earl Grey de la Creme",
+      "Sample = 5 8-oz Servings",
+      "Tin = 35 8-oz Servings",
+      "1 LB Bulk = $0.15 / Serving",
+      "Boasted Best Earl Grey Ever, by us!",
+      "Tasty in lattes, cookies, & cocktails",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "English Breakfast, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-english-breakfast-z.jpg",
+    "description": "As the singularly most popular tea blend in the western hemisphere, our high grown rendition tastes exactly as you’d want it to be - smooth, rich, and full-bodied. This traditional blend is made with carefully selected organic teas from the four most respected black tea-growing regions in the world. Each one is a top-quality full leaf tea in its own right, with its own unique flavor profile and characteristics. Together, they elevate the breakfast tea experience to majestic new heights, in this perfectly balanced, well-rounded and lively cup. It’s easy to enjoy this black tea straight, piping hot or over ice. It will also stand up well to a dash milk or sweetener, if desired.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Organic English Breakfast Tea",
+      "Tea Origins: India, Sri Lanka, China",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.22 / Serving",
+      "Sugar-free & Gluten-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Ginger Peach Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/g/i/ginger-peach-tea-z.jpg",
+    "description": "Our rendition of America's favorite flavored black tea is an elegant and authentic twist on the conventional. We handcraft this tea on a premium blend of two full leaf black teas, which gives added dimension to the peach flavor and the depth needed to provide the perfect balance to the real organic ginger root. You'll find our Ginger Peach tea to be the warming comfort tea of our flavored tea collection, and absolutely fabulous served over ice!\n",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Premium Ginger Peach Tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.15 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Keemun Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/k/e/keemun-tea-z.jpg",
+    "description": "A splendor of toasty flavor and aroma! The most refined and perhaps the most well-known of Chinese black teas, this Keemun is handpicked in Anhui Province. This tea has an indescribable flavor, with the most delicate hints of smoky pine, orchid, crushed apple and a rich, sweet body.",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Premium loose leaf keemun tea",
+      "Origin: China, Anhui Province",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.12 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Lady Lavender",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/l/a/lady-lavender-earl-grey-tea-z.jpg",
+    "description": "Our Lady Lavender has her roots in Earl Grey tea with a sprinkle of lavender, vanilla, orange peel, & other citruses. One hot cup will whisk you away to a relaxing day at the spa or romantic getaway en Provence. There's a lot more to this tea than bergamot, lavender and black tea. If you enjoy a sweet, well-rounded, and full-bodied Earl Grey, but long for a little lift and a twist, then Lady Lavender may be your gal. Her black tea base provides a nice background that doesn’t attempt to overpower the other flavors. The citrus notes are perfectly tart while the vanilla adds a nice creamy sweetness, and the lavender notes pick it up a notch, awakening your senses. You should also try Lady Lavender on ice. This lady isn't shy in the cold - in fact, you'll likely find that's where she shines.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Premium lady grey tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.17 / Serving",
+      "Gluten-free & Sugar-free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Lapsang Souchong, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/l/a/lapsang-souchong-tea-organic-z.jpg",
+    "description": "This unique organic black tea is dried over pinewood, giving it a heavily smoky aroma and a deep, rich liquor. The tea leaves are first withered over pine root fires, then panfried, rolled and oxidized. The leaves are finally placed in bamboo baskets and hung on wooden racks over smoking pinewood fires to dry and absorb the smoke. This results in a powerfully smoky aroma coupled with a smooth taste.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Organic Lapsang Souchong, Smoked Black Tea",
+      "Origin: China, Fujian province",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.20 / Serving",
+      "Gluten-free & Sugar-Free",
+      "Caffeine: High"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Mango Tango",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mango-tango-tea-z.jpg",
+    "description": "Mango Tango is a fresh take on the classic tradition of flavored black teas. This blend of crisp Ceylon and fresh passion fruit and mango creates a light and fruity combination that is great any time of year. It brews into a deep, reddish liquor with a heady, bright aroma that lends itself to versatility; a steamy pot will warm you up when it's cold out while an iced cup will keep you cool on hot summer days.",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Premium mango black tea",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.15 / Serving",
+      "Brisk black Ceylon tea with a mango twist",
+      "Makes great gourmet iced tea!",
       "Gluten-free & Sugar-free",
       "Caffeine: High"
     ]

@@ -1,37 +1,154 @@
 [
   {
-    "id": 1,
-    "name": "Assam Tea",
-    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-z.jpg",
-    "description": "If strength is your weakness, then Assam is your tea. This tea is from the Doomni Estate in the Assam valley in northeast India along the rich and fertile banks of the Brahamaputra River is prized for its heartiness and tart, malty flavor and aroma. A strong, full-liquoring tea, slightly floral and sweetly dry flavor. A honey-like mouth coat and aftertaste. This is a good tea to try with a touch of milk. For a more subtle & sweet rendition, try our Organic Assam.",
+    "id": 433,
+    "name": "3 PM Flat Belly",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/d/e/detox-tea-3pm-z.jpg",
+    "description": "Slim waistlines are all about maintaining wellness, achieving moderation, curbing cravings, and staying active. When you're thinking thin, deliciously mouthwatering 3 PM Flat Belly is perfect for you—caffeine-free with no calories, sweeteners, or flavorings. The fluid balancing of hibiscus helps keep things flowing, while peppermint is thought to be a craving crusher, and fennel helps with bloating. Fennel seeds and licorice root also impart a natural sweetness, satisfying any afternoon urge to splurge. This gentle herbal indulgence has a full body flavor that not only makes you feel thin, but inspires you to get into those skinny jeans.",
     "ratings": 3,
-    "reviews": 47,
     "price": "$3.00",
     "features": [
-      "Single-estate loose leaf Assam tea",
-      "Origin: India, Assam Valley",
-      "Sample = 5 8-oz Servings",
-      "1 LB Bulk = $0.10 / Serving",
+      "3-oz = 30-Day supply of flat tummy tea",
+      "No sweeteners, preservatives, or flavoring",
       "Gluten-free & Sugar-free",
-      "Caffeine: High"
+      "100% Naturally Caffeine-Free"
     ]
   },
   {
-    "id": 1,
-    "name": "Assam Tea, Organic",
-    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-organic-z.jpg",
-    "description": "Subtle, sweet, and sophisticated - this esteemed organic assam is from the Banaspaty Estate in Northeast India. Rich honey notes emerge from the amber liquor, with malty undertones far more subtle than a traditional assam tea. Also less astringent than traditional assam, the smooth sweet character of these slightly larger leaves deliver a clean brew with less tannin. Easy to brew up properly, this tea produces a consistently blissful cup that will transport you to India's Assam Valley.",
+    "id": 448,
+    "name": "9 PM Stress Buster",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/d/e/detox-tea-9pm-z.jpg",
+    "description": "Nurture your health and wellness by soothing your senses with this naturally calming blend of flavorful aromatic herbs. Health-promoting red rooibos provides the dark red base, with a naturally sweet, creamy taste and aroma. The health benefits of rooibos are many; it is full of antioxidants and healthy minerals. Valerian root is one of nature’s sedatives, promoting rest and relaxation since ancient Greek & Roman times. 9 PM Stress Buster combines herbs, fruit, and flowers to deliver some dreamy satisfaction.",
     "ratings": 3,
-    "reviews": 74,
+    "price": "$3.00",
+    "features": [
+      "3-oz = 30-Day Supply of calming tea",
+      "No sweeteners, preservatives, or coloring",
+      "Gluten-free & Sugar-free",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Blood Orange Smoothie",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/w/award-winning-blood-orange-rooibos-z.jpg",
+    "description": "This award-winning blend of naturally caffeine–free South African red rooibos, orange, and creamy vanilla is herbal bliss! This herbal tea combines rooibos, orange peel, hibiscus, rosehips, apples, safflowers, rose petals, vanilla, and citrus flavors. It brews into a dark red liquor with a naturally sweet, creamy taste and aroma, reminiscent of orange creamsicles and Orange Julius smoothies! Kids and adults both love this herbal tea, making it a great substitute for sugary juices and sodas, with no lack of flavor or thirst-quenching satisfaction. The health benefits of rooibos are numerous; it is full of antioxidants and healthy minerals such as calcium, potassium, magnesium, iron, zinc, copper, and fluoride.",
+    "ratings": 3,
     "price": "$4.00",
     "features": [
-      "100% Organic Assam Tea",
-      "Origin: Banaspaty Estate, India",
-      "Loose Leaf Grade: FTGFOP",
+      "South African rooibos herbal tea",
       "Sample = 5 8-oz Servings",
-      "1 LB Bulk = $0.17 / Serving",
+      "Tins = 39 8-oz Servings",
+      "1 LB Bulk = $0.25 / Serving",
+      "A natural source of antioxidants & minerals",
+      "Great hot and iced!",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Chamomile Tea",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/h/chamomile-tea-egyptian-z.jpg",
+    "description": "This timeless herbal tea consists of simply gorgeous chamomile flowers. This naturally caffeine-free tea is an excellent refresher, with soothing and calming effects, making it the perfect nightcap. The light golden brew has a soothing aroma and light sweet taste. It even makes a refreshing thirst quencher when served as iced tea.",
+    "ratings": 3,
+    "price": "$3.00",
+    "features": [
+      "Premium chamomile flowers",
+      "Origin: Egypt",
+      "Sample = 5 8-oz Servings",
+      "1/2 LB Bulk = $0.22 / Serving",
       "Gluten-free & Sugar-free",
-      "Caffeine: High"
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Coconut Crush Chai",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/o/coconut-crush-chai-z.jpg",
+    "description": "Enjoy a blissful crush on coconut from our creative twist on traditional chai. This craft blend brings together the beauty and warmth of South African Rooibos with swirling aromas, for a deliciously intriguing cup of herbal chai. Sweet Indian spices will enchant you from your first sip of this delicate treasure, followed by a burst of creamy toasted coconut. Amazing hot, iced or as a naturally sweet and calming herbal latte, your crush will get deeper with every cup.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Herbal Coconut Chai",
+      "Rooibos Origin: South Africa",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.19 / Serving",
+      "Sugar-free",
+      "100% Naturally Caffeine-Free",
+      "NOTE: contains coconut"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Cold Buster with Tulsi",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/o/cold-buster-herbal-tea-z.jpg",
+    "description": "Back in time for cold & flu season, is our caffeine-free immunity blend to relieve stress and promote health. Our Cold Buster with Tulsi Leaf, aka holy basil, is based on a recipe for a natural cold cure from Europe. This rooibos-based tea is packed with an array of healthy constituents to help warm and fortify you from inside. High in Vitamin C, with lemon and orange peel, hibiscus and rose hips, it also contains herbs and Tulsi to soothe cold symptoms and control coughs.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Premium Cold Remedy Blend",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.19 / Serving",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Cold Infusions Chill Out, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/h/chill-out-tea-z.jpg",
+    "description": "Cold Infusions are organic single-serving cold brew tea packs that pair with our Steep & Go filter and Cold Brew Bottle to make fresh brewed tea on-the-go. Each pack makes up to 24 oz of tea. Simply cold brew for 10-15 minutes in chilled or room temperature water.",
+    "ratings": 3,
+    "price": "$1.29",
+    "features": [
+      "Hibiscus Cold Brew Tea",
+      "0.2 oz Tea / Pack",
+      "Gluten-free & Sugar-free",
+      "No flavorings, no preservatives",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Detox, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-detox-tea-z.jpg",
+    "description": "Enjoy the effects of botanical ingredients like Sage, Lemon Balm, Lemongrass and Lemon Peel for a soothing natural cleanse. Your body is constantly being challenged by everyday toxins like alcohol, smoke, food additives, and stress. The delicate balance of citrus and sage make “Detox” prepare your body for healthful cleansing in a most delicious way. Every cup will leave you feeling naturally refreshed as you stimulate your body’s immune system.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "30-Day Supply of organic herbal detox (3oz)",
+      "No sweeteners, preservatives, or coloring",
+      "Gluten-free & Sugar-free",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Ginger Tea, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/g/i/ginger-root-tea-organic-z.jpg",
+    "description": "Plump bits of dried ginger root steep into a strikingly spicy and aromatic caffeine-free brew. We find it especially delicious with fresh lemon and honey, as well as cold brewed. Ginger tea is a great source of Vitamin C and magnesium and has been consumed for centuries to help with stomach cramps, motion sickness, nausea, and respiratory problems, and is often used to relieve stress thanks to its strong, relaxing aroma. Just taking a whiff of this warming infusion will leave you feeling calm and refreshed.\n",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Organic Ginger Root Tea",
+      "Origin: India",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.21 / Serving",
+      "100% Naturally Caffeine-Free"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Gingerbread Cookie",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/g/i/gingerbread-cookie-tea-z.jpg",
+    "description": "Spicy like gingersnaps with an exquisite hint of honey, this red rooibos herbal will make you think that fresh baked cookies have just come out of the oven! Rich with cinnamon and ginger, this hearty blend is one you'll want to savor. Naturally caffeine-free and naturally high in antioxidants and minerals, make this rooibos based tea part of your healthy habits this season. This guilt-free decadence is warm, welcoming, and to be enjoyed any time of day or night.",
+    "ratings": 3,
+    "price": "$4.00",
+    "features": [
+      "Herbal Dessert Tea",
+      "Rooibos Origin: South Africa",
+      "Sample = 5 8-oz Servings",
+      "1 LB Bulk = $0.18 / Serving",
+      "Sugar-free & 0 SmartPoints",
+      "100% Naturally Caffeine-Free"
     ]
   }
 ]

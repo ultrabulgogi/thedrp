@@ -1,37 +1,70 @@
 [
   {
-    "id": 1,
-    "name": "Assam Tea",
-    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-z.jpg",
-    "description": "If strength is your weakness, then Assam is your tea. This tea is from the Doomni Estate in the Assam valley in northeast India along the rich and fertile banks of the Brahamaputra River is prized for its heartiness and tart, malty flavor and aroma. A strong, full-liquoring tea, slightly floral and sweetly dry flavor. A honey-like mouth coat and aftertaste. This is a good tea to try with a touch of milk. For a more subtle & sweet rendition, try our Organic Assam.",
+    "id": 359,
+    "name": "Coconut Cabana",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/c/o/coconut-cabana-oolong-tea-z-01.jpg",
+    "description": "A decadent dessert tea, to be sipped & savored. This oolong has a smooth yet fruity and creamy taste. It's blended with shaved coconut to create a delicate and calming experience in aroma and flavor. It gained a large fanbase under its former name, Coconut Milky Oolong. If you love coconut milk sweets and sophisticated oolongs, this is your tea. Discover this guiltless dessert - simply extraordinary!",
     "ratings": 3,
-    "reviews": 47,
-    "price": "$3.00",
+    "price": "$5.00",
     "features": [
-      "Single-estate loose leaf Assam tea",
-      "Origin: India, Assam Valley",
+      "Premium milk oolong tea",
+      "Oolong Origin: China",
       "Sample = 5 8-oz Servings",
-      "1 LB Bulk = $0.10 / Serving",
-      "Gluten-free & Sugar-free",
-      "Caffeine: High"
+      "Tin = 40 8-oz Servings",
+      "1 LB Bulk = $0.26 / Serving",
+      "Oolongs may aid in weight-loss",
+      "NOTE: contains coconut",
+      "Caffeine: Medium"
     ]
   },
   {
-    "id": 1,
-    "name": "Assam Tea, Organic",
-    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/a/s/assam-tea-organic-z.jpg",
-    "description": "Subtle, sweet, and sophisticated - this esteemed organic assam is from the Banaspaty Estate in Northeast India. Rich honey notes emerge from the amber liquor, with malty undertones far more subtle than a traditional assam tea. Also less astringent than traditional assam, the smooth sweet character of these slightly larger leaves deliver a clean brew with less tannin. Easy to brew up properly, this tea produces a consistently blissful cup that will transport you to India's Assam Valley.",
+    "id": 366,
+    "name": "Dark Roast Oolong, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/d/a/dark-roast-oolong-organic-z.jpg",
+    "description": "If you’re looking for a roasty oolong tea, you need look no further. Large, wiry tea leaves produce a deep amber cup, with a rich flavor. Dark Roast Oolong’s warm and earthy aroma is reminiscent of a late harvest wine. The complex flavor profile has hints of honeysuckle and roasted barley and nuts. Expertly dark roasted, this oolong could convert even a coffee lover to loose leaf tea.",
     "ratings": 3,
-    "reviews": 74,
+    "price": "$5.00",
+    "features": [
+      "Premium Organic Oolong Tea",
+      "Origins: China",
+      "1 LB Bulk = $0.48 / Serving",
+      "AND leaves can be re-infused 2-3 times!",
+      "Gluten-free & Sugar-free",
+      "Oolongs can aid in weight loss",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Iron Goddess Oolong, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/o/r/organic-iron-goddess-oolong-z.jpg",
+    "description": "Our certified 100% organic Tie Guan Yin hails directly from the village of Anxi (“Ahn-SHE”), the most esteemed source for this top 10 Chinese tribute tea. Located in the rolling tea-covered hills of Fujian Province, at the base of greater peaks. This green spot of heaven on earth is revered for the cultivation and crafting of this highest grade of oolong, also referred to as “Monkey Picked” oolong. Legend says this tea was picked from the highest elevations by trained monkeys. Iron Goddess imperial oolong has a striking and unmistakably distinctive orchid fragrance.",
+    "ratings": 3,
+    "price": "$5.00",
+    "features": [
+      "Large Leaf Organic Oolong Tea",
+      "Origins: China",
+      "1/2 LB Bulk = $0.47 / Serving",
+      "AND leaves can be re-infused 3-4 times!",
+      "Natural & Sugar-free",
+      "Oolong, aka Wulong or Wu Long, may aid in weight loss",
+      "Caffeine: Medium"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Russian Caravan, Organic",
+    "image": "http://cdn.theteaspot.com/media/catalog/product/cache/1/zoom_image/9df78eab33525d08d6e5fb8d27136e95/r/u/russian-caravan-tea-organic-z.jpg",
+    "description": "This classic blend is strong and bold, with an intriguing complexity—just how we like our breakfast teas. Our Organic Russian Caravan’s sophistication stems from the careful composition of four high-quality organic large leaf teas—lapsang souchong, dark oolong, assam, & puerh—perfectly balanced to deliver a kiss of smoke and sweetness to your palate. This tea brings new life to an ancient tradition of flavor.",
+    "ratings": 3,
     "price": "$4.00",
     "features": [
-      "100% Organic Assam Tea",
-      "Origin: Banaspaty Estate, India",
-      "Loose Leaf Grade: FTGFOP",
+      "Organic Russian Caravan tea",
+      "Origins: China & India",
       "Sample = 5 8-oz Servings",
-      "1 LB Bulk = $0.17 / Serving",
+      "1 LB Bulk = $0.24 / Serving",
       "Gluten-free & Sugar-free",
-      "Caffeine: High"
+      "Caffeine: Very High"
     ]
   }
 ]
