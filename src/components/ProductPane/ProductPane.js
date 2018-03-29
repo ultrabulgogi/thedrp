@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../../css/components/ProductPane/ProductPane.css';
+import './ProductPane.css';
 
 class ProductPane extends Component {
     render() {

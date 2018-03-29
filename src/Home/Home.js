@@ -1,18 +1,25 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-
 import Frame from '../components/Frame/Frame'
 import ProductPane from '../components/ProductPane/ProductPane';
-import '../components/ProductPane/ProductPane.scss';
 import Carousel from 'nuka-carousel';
-import '../css/Home/Home.css';
+
+import '../components/ProductPane/ProductPane.css';
+import './Home.css';
 
 
 class Home extends Component {
     render() {
         return (
             <Frame>
-                <Carousel>
+                <Carousel
+                    renderCenterLeftControls={({previousSlide}) => (
+                        <button onClick={previousSlide}>&lt;</button>
+                    )}
+                    renderCenterRightControls={({nextSlide}) => (
+                        <button onClick={nextSlide}>&gt;</button>
+                    )}
+                >
                     <div className="carouselSlides" id="heroSlide1">
                         <img src="/img/heroes/hero1.jpg" alt="green tea" />
                         <p>Calm and Relaxing</p>
