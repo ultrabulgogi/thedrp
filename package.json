@@ -2,7 +2,7 @@
   "name": "thedrop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://http://ultrabulgogi.github.io/",
+  "homepage": "http://thedrp.surge.sh/",
   "engines": {
     "node": ">=9.4.0",
     "npm": ">=5.7.0"
@@ -19,7 +19,9 @@
   },
   "scripts": {
     "start": "sass --watch src/ | react-scripts start",
-    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "cd ./build | surge",
+    "test": "",
     "eject": "react-scripts eject"
   }
 }
