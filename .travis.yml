@@ -5,3 +5,6 @@ deploy:
   project: ./build/
   domain: thedrp.surge.sh
   skip_cleanup: true
+
+before_install:
+  - npm i -g npm
