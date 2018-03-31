@@ -4,6 +4,6 @@ node_js:
 before_script: cd $TRAVIS_BUILD_DIR
 deploy:
   provider: surge
-  project: build/
+  project: ./build/
   domain: thedrp.surge.sh
   skip_cleanup: true
