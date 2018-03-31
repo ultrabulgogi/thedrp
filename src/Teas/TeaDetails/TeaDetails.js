@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-
 import {TeaConsumer} from '../TeaProvider';
 import Frame from '../../components/Frame/Frame';
 import './TeaDetails.css';

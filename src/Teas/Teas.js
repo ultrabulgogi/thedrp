@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
 import {Switch, Route} from 'react-router-dom';
 import TeaList from './TeaList/TeaList';
 import TeaDetails from "./TeaDetails/TeaDetails";

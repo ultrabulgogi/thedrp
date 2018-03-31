@@ -2,10 +2,6 @@ import React, {Component} from 'react';
 import './Footer.css';
 
 class Footer extends Component {
-    constructor(props) {
-        super(props)
-    }
-
     render() {
         return (
             <footer id="mainFooter">
@@ -13,19 +9,19 @@ class Footer extends Component {
                     <h3>More to Explore</h3>
                     <ul>
                         <li>
-                            <a href="#">Customer Service</a>
+                            <a href="/customer_service">Customer Service</a>
                         </li>
                         <li>
-                            <a href="#">About Us</a>
+                            <a href="/about_us">About Us</a>
                         </li>
                         <li>
-                            <a href="#">Press</a>
+                            <a href="/press">Press</a>
                         </li>
                         <li>
-                            <a href="#">Affiliates</a>
+                            <a href="/affiliates">Affiliates</a>
                         </li>
                         <li>
-                            <a href="#">We're Hiring</a>
+                            <a href="/hiring">We're Hiring</a>
                         </li>
                     </ul>
                 </nav>

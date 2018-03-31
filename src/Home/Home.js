@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
 import Frame from '../components/Frame/Frame'
 import ProductPane from '../components/ProductPane/ProductPane';
 import Carousel from 'nuka-carousel';
