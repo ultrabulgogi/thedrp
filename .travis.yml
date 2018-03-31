@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "9"
-before_script: cd project
+before_script: cd thedrp
 deploy:
   provider: surge
   project: build/
