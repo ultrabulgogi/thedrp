@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "sass --watch src/ | react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy": "react-scripts build",
     "deploy": "cd ./build | surge",
     "test": "",
     "eject": "react-scripts eject"
