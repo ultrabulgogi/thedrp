@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "9"
-before_script: cd thedrp
+before_script: cd $TRAVIS_BUILD_DIR/project
 deploy:
   provider: surge
   project: build/
