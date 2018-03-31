@@ -3,6 +3,6 @@ node_js:
   - "9"
 deploy:
   provider: surge
-  project: build/
+  project: /build/
   domain: thedrp.surge.sh
   skip_cleanup: true
