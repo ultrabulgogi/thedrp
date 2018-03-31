@@ -21,7 +21,7 @@ class Home extends Component {
                 >
                     <div className="carouselSlides" id="heroSlide1">
                         <img src="/img/heroes/hero1.jpg" alt="green tea" />
-                        <p>Calm and Relaxing</p>
+                        <p>!!!Calm and Relaxing</p>
                     </div>
                     <div className="carouselSlides" id="heroSlide2">
                         <img src="/img/heroes/hero2.jpg" alt="green tea" />
